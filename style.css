@@ -1,0 +1,23 @@
+body {
+    font-family: 'Arimo', sans-serif;
+   font-weight: 300;
+}
+
+h6,
+h5,
+h4,
+h3,
+h2,
+h1 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 600;
+	color: black
+}
+
+.navbar-brand img {width:150px}
+
+#footer {background-color:white;#fff}
+
+#lowerfooter {background-color:white;#fff}
+
+#lowerfooter i {font-size:60px;color:#fff;margin:16px 7px 8px 7px}
